@@ -1,7 +1,7 @@
 # ash
-Alex SHell, also known as ASH, is a Shell that imitates Bash. This shell is entirely created in C, by... me.
+Alex SHell, also known as ASH, is a Shell that imitates Bash. This shell is entirely written by... me.
 
-You can use this shell as a replacement of Bash, although I do not recommend it if you're not using it for personal use/fun. 
+You can use this shell as a replacement of Bash, although I do not recommend it if you're not using it for personal use/fun (also I'm sure there's plenty of more advanced things that Bash does which ASH can't (as of right now)).
 
 There is almost 100% some security issues in here. Do not use ASH for anything besides messing around and having fun.
 
